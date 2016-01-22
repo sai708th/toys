@@ -1,0 +1,24 @@
+akg 20 20 32 10 akagi
+kg 20 20 46 12 kaga
+sr 18 35 20 6 souryu
+hr 18 36 22 3 hiryu
+sk 27 27 27 12 shoukaku
+sk-k 34 21 12 9 shoukaku-kou
+zk 28 26 26 13 zuikaku
+zk-k 34 24 12 6 zuikaku-kou
+ur 18 21 27 3 unryu
+amg 18 21 27 3 amagi
+ktrg 18 21 27 3 katsuragi
+gz 30 13 10 3 graf-zeppelin
+th 30 24 24 8 taihou
+hs 14 16 12 - houshou
+rj 18 28 6 3 ryujou
+rh 21 9 9 6 ryuhou
+sh 18 12 12 6 shouhou
+zh 18 12 12 6 zuihou
+hy 18 18 18 12 hiyou
+jy 24 18 20 4 junyou
+tt 24 16 11 8 titose
+tyd 24 16 11 8 tiyoda
+mh 12 12 8 - mizuho
+
