@@ -1,5 +1,11 @@
 #!/usr/bin/env bash 
 
+if [ $# -lt 2 ] ; then
+	echo "type $0 [-s] (kanmusu-id) [(taikuu value)]"
+	echo "when you want to see ids, type $0 -id"
+	exit 1
+fi
+
 if [ $1 = "-s" ] ; then
 	shift
 	unsorted=`$0 $@`
@@ -14,11 +20,6 @@ if [ $1 = "-id" ] ; then
 	exit 0
 fi
 
-if [ $# -lt 2 ] ; then
-	echo "type $0 (kanmusu-id) [(taikuu value)]"
-	echo "when you want to see ids, type $0 -id"
-	exit 1
-fi
 
 data=`awk -v id=$1 '{if($1==id){print}}' < 'tousaisuu.txt'`
 echo "$data"
