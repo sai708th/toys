@@ -1,7 +1,4 @@
-hello
-
-
-
+#!/usr/bin/env bash 
 
 
 
