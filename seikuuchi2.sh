@@ -41,8 +41,7 @@ case $# in
 	*)step=1;taikuuchi=($2 $3 $4 $5);;
 esac
 
-perm=`awk -v step=$step '{if(FNR%step==1){print}}' < 'perm.txt'`
-echo "$perm"
+perm=`awk -v step=$step '{if((FNR-1)%step==0){print}}' < 'perm.txt'`
 
 echo "$perm" | while read line
 do
