@@ -21,4 +21,3 @@ jy 24 18 20 4 junyou
 tt 24 16 11 8 titose
 tyd 24 16 11 8 tiyoda
 mh 12 12 8 - mizuho
-
