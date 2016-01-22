@@ -11,7 +11,7 @@ amg 18 21 27 3 amagi
 ktrg 18 21 27 3 katsuragi
 gz 30 13 10 3 graf-zeppelin
 th 30 24 24 8 taihou
-hs 14 16 12 - houshou
+hs 14 16 12 0 houshou
 rj 18 28 6 3 ryujou
 rh 21 9 9 6 ryuhou
 sh 18 12 12 6 shouhou
@@ -20,5 +20,4 @@ hy 18 18 18 12 hiyou
 jy 24 18 20 4 junyou
 tt 24 16 11 8 titose
 tyd 24 16 11 8 tiyoda
-mh 12 12 8 - mizuho
-
+mh 12 12 8 0 mizuho
