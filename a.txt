@@ -1,0 +1,10 @@
+credential.helper=osxkeychain
+color.ui=auto
+user.name=sai708th
+user.email=sai708th@gmail.com
+alias.co=checkout
+alias.cm=commit
+alias.br=branch
+alias.st=status
+alias.gra=log --all --decorate --graph --oneline
+merge.ff=false
